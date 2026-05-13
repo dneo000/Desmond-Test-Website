@@ -43,15 +43,6 @@
   padding-left: 26px;
 }
 
-@media (min-width: 999px) {
-
-.middle-section .search-bar {
-      transition: max-width 1s ease;
-
-}
-
-}
-
 .search-bar {
   flex: 1;
   height: 40px;
@@ -187,4 +178,8 @@
 .youtube-profile-picture {
   height: 40px;
   border-radius: 25px;
+}
+
+@media (max-width: 720px) {
+  
 }

@@ -6,9 +6,9 @@
   transition: grid-template-colums 0.5s;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 720px) {
   .entire-video-preview {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
