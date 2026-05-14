@@ -181,5 +181,7 @@
 }
 
 @media (max-width: 720px) {
-  
+  .header-section {
+    width: 98%;
+  }
 }

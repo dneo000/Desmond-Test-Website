@@ -53,6 +53,8 @@
   line-height: 20px;
   font-weight: 500;
   flex: 1;
+  text-decoration: none;
+  color: black;
 }
 
 .video-author, .video-stats {
